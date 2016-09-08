@@ -1,2 +1,12 @@
-# online-ide
-This is a list of online resources like JSFiddle, Autoprefixer, less2css, etc. All together they may be your online IDE %)
+# Javascript
+
+* https://jsfiddle.net/
+* http://codepen.io/
+
+# CSS
+
+* http://less2css.org/
+
+# Testing
+
+* http://www.tryjasmine.com/
