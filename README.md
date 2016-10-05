@@ -9,6 +9,10 @@
 * http://less2css.org/
 * https://autoprefixer.github.io/
 
+# Shell
+
+* http://explainshell.com/
+
 # Testing
 
 * http://www.tryjasmine.com/
