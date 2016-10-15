@@ -8,6 +8,7 @@
 
 * http://less2css.org/
 * https://autoprefixer.github.io/
+* http://hex.colorrrs.com/
 
 # Shell
 
