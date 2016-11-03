@@ -21,3 +21,7 @@
 # Testing
 
 * http://www.tryjasmine.com/
+
+# XML
+
+* http://xmlprettyprint.com/
