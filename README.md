@@ -24,6 +24,7 @@
 
 # XML
 
+* http://codebeautify.org/xmlviewer
 * http://xmlprettyprint.com/
 
 # RegExp
