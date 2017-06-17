@@ -30,3 +30,4 @@
 # RegExp
 
 * http://regexr.com/
+* http://html5pattern.com/
